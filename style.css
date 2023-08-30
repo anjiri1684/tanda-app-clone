@@ -1,0 +1,56 @@
+ .home {
+    width: 120px;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    font-size: 19px;
+    left: 60px;
+    margin: 10px;
+    margin-top: 15px;
+    position: relative;
+    align-items: center;
+ }
+
+ .home:active:focus {
+    background-color: #0C356A;
+ }
+
+ .div {
+    width: 380px;
+    height: 200px;
+    background-color: #0C356A;
+    color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 25px;
+    top: 10px;
+ }
+
+ .ksh {
+    font-size: 19px;
+ }
+
+ .p {
+    margin-left: 15px;
+    margin-top: 17px;
+
+ }
+
+ hr {
+    width: 300px;
+ }
+
+ img {
+   width: 100px;
+   height: auto;
+   border-radius: 40px;
+   margin: 5px;
+
+ }
+
+ .bank,.airtime,.bills {
+   width: 250;
+   height: 100;
+
+ }
+
